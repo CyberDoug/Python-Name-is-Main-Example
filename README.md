@@ -1,6 +1,6 @@
 # Python-Name-is-Main-Example
 
-This reposity is designed to teach students how the follow Python expression works:
+This reposity is designed to teach students how the following Python expression works:
 
 ```
 if __name__ == "__main__":
